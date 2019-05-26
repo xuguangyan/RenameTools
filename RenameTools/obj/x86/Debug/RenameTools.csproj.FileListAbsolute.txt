@@ -1,0 +1,17 @@
+D:\工作区\WinForm\RenameTools\RenameTools\bin\Debug\RenameTools.exe
+D:\工作区\WinForm\RenameTools\RenameTools\bin\Debug\RenameTools.pdb
+D:\工作区\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.Form1.resources
+D:\工作区\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.Properties.Resources.resources
+D:\工作区\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.exe
+D:\工作区\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.pdb
+D:\工作区\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.csproj.GenerateResource.Cache
+D:\projects\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.exe
+D:\projects\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.pdb
+D:\projects\WinForm\RenameTools\RenameTools\bin\Debug\RenameTools.exe
+D:\projects\WinForm\RenameTools\RenameTools\bin\Debug\RenameTools.pdb
+D:\projects\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.csprojResolveAssemblyReference.cache
+D:\projects\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.Properties.Resources.resources
+D:\projects\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.csproj.GenerateResource.Cache
+D:\projects\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.MainForm.resources
+D:\projects\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.HelpForm.resources
+D:\projects\WinForm\RenameTools\RenameTools\obj\x86\Debug\RenameTools.Resource.resources
